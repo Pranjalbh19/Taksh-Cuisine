@@ -37,3 +37,17 @@ const Menu = () => {
 }
 
 export default Menu
+
+
+
+
+
+
+
+
+
+// git init --- inistalise 
+// git add .  -- readme -- (project file description 
+//git commit -m"first commit"  --- first commit 
+// git branch -M main 
+//
