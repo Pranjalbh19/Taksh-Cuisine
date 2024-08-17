@@ -1,0 +1,27 @@
+.Nav{
+list-style: none;
+display:flex ;
+align-items: right;
+justify-content: center;
+}
+.Nav li  {
+    margin:0px 950px
+}
+.Nav li a {
+text-decoration: none;
+color:white;
+gap: 34px;
+margin-right: 50px;
+}
+.mobile-nav li{
+margin-top: 30px;
+}
+
+.mobile-nav li a{
+text-decoration: none;
+font: size 1.4rem;;
+color:red;
+display: flex;
+justify-content: center;
+
+margin-top: 30px;}
